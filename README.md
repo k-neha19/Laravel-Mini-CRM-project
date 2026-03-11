@@ -126,10 +126,14 @@ App URL (default):
 ## Screenshots
 
 ### Companies
-![Companies Page]
+Companies Page
 ![alt text](<Screenshot (252).png>)
 ### Employees
-![Employees Page](project_documentation/screenshots/employees.png)
+Employees Page
+<img width="1920" height="1080" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/df66633f-9ddb-4601-9a87-df98234a8c18" />
+<img width="1920" height="1080" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/8ab59121-2bb3-402e-9ab6-1c49a5181d3e" />
+
 
 ### Edit Employee
-![Edit Employee Page](project_documentation/screenshots/edit-employee.png)
+Edit Employee Page
+<img width="1920" height="1080" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/71a162de-4f9e-4df2-944d-76c4c1250171" />
